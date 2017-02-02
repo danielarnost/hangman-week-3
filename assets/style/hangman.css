@@ -1,0 +1,30 @@
+.jumbotron{
+	margin-top:5%;
+background-color: #A0BCC6;
+border: 1px solid black;
+}
+body{
+
+	background-image: /*#1ba5d3*/ url("../images/hangman.png");
+	font-family: 'Quicksand', sans-serif;
+}
+hr{
+
+	color:black;
+}
+.panel-body{
+
+	background-color: #A0BCC6;
+}
+#heading-one{
+	background-color: #FFEECB;
+}
+.panel {
+	border: 1px solid black;
+}
+#win-row{
+	display:inline;
+}
+#loss-row{
+	display:inline;
+}
